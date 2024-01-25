@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+  - resume.pdf
+
+website:
+  title: "Sierra Hess"
+  description: "sample"
+  open-graph: 
+    locale: en_us
+  navbar:
+    right:
+        - text: "Home"
+          href: index.html
+        - text: "Presentations" 
+          href: Presentations
+
+format:
+  html:
+    theme:
+      - cosmo
+  
+  
+  
+  
+  
+  
