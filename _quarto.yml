@@ -2,24 +2,25 @@ project:
   type: website
   output-dir: docs
   resources:
-  - resume.pdf
+    - resume.pdf
 
 website:
-  title: "Sierra Hess"
-  description: "sample"
-  open-graph: 
+  title: "Sierra Hess - Data Science Portfolio"
+  description: "Exploring data, one insight at a time."
+  open-graph:
     locale: en_us
   navbar:
     right:
-        - text: "Home"
-          href: index.html
-        - text: "Presentations" 
-          href: Presentations
+      - text: "Home"
+        href: index.html
+      - text: "Presentations"
+        href: presentations.html
 
 format:
   html:
     theme:
       - cosmo
+
   
   
   

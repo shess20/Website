@@ -1,17 +1,28 @@
 ---
-title: "Sierra Hess"
-execute: 
-  template: trestles 
-  links: 
-    - text: github
-      icon: github
-      url: "https://github.com/shess20"
-    - text: email
-      url: "sierralindahess@gmail.com" 
-    - text: resume
-      url: resume.pdf
-comments: false
----
-::: {.column-page}
+title: "Sierra Hess - Data Science Student"
+template: trestles
+links:
 
-I'm a senior at [St. Lawrence University](https://www.stlawu.edu/){target="_blank"}.and am a data science major/ math minor
+text: GitHub
+url: "https://github.com/shess20"
+text: LinkedIn
+url: "https://www.linkedin.com/in/sierra-hess-041929224/"
+text: Email
+url: "mailto:sierralindahess@gmail.com"
+text: Resume
+url: "resume.pdf"
+---
+
+I'm a senior at [St. Lawrence University](https://www.stlawu.edu/){target="_blank"}, majoring in data science with a minor in mathematics. I'm passionate about leveraging data to derive meaningful insights and solve complex problems.
+
+Feel free to check out my work and connect with me:
+
+GitHub
+LinkedIn
+Email
+Resume
+```{r}
+
+
+```
+
